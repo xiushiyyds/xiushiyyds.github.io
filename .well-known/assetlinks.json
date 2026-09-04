@@ -1,10 +1,15 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.xiushiyyds.ridmonitor",
-      "sha256_cert_fingerprints": ["91:38:F3:26:2F:17:64:F4:31:FE:D4:46:D5:37:F2:1F:FA:42:E2:B4:A8:CB:F8:1E:27:19:F4:5E:E5:4C:45:F9"]
+      "sha256_cert_fingerprints": [
+        "D6:FD:A1:E3:24:45:83:52:B2:11:A1:8C:EE:B2:FB:A5:ED:61:CF:87:7B:FB:D5:F4:4B:0C:64:BE:21:82:21:09",
+        "91:38:F3:26:2F:17:64:F4:31:FE:D4:46:D5:37:F2:1F:FA:42:E2:B4:A8:CB:F8:1E:27:19:F4:5E:E5:4C:45:F9"
+      ]
     }
   }
 ]
